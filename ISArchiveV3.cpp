@@ -17,6 +17,7 @@ limitations under the License.
 #include "ISArchiveV3.h"
 #include <algorithm>
 #include <cassert>
+#include <sstream>
 #include <iostream>
 #include <exception>
 extern "C" {
